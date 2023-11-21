@@ -1,4 +1,5 @@
-// We will define all our custom types here, make use of TypeScript's type system
+// Create types.ts file in frontend folder to define all our custom types
+// We will define all our custom types here and make use of TypeScript's type system
 export interface FoodObj {
     name: string;
 };

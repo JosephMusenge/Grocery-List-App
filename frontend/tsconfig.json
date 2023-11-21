@@ -22,6 +22,6 @@
   },
   "include": [
     "src",
-    "types.ts"
+    "types.ts" // Letting raact know about types so it can use them
   ]
 }
